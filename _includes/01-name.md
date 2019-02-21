@@ -1,3 +1,3 @@
-# Aurare's first R markdown portfolio
+# Aurare's first Markdown portfolio
 ## Section 1
 ## Section 2
