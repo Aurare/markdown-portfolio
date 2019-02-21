@@ -1,1 +1,3 @@
-Replace this with your name, and include a header.
+# Aurare's first R markdown portfolio
+## Section 1
+## Section 2
